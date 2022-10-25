@@ -11,4 +11,4 @@
 * * * Depois que acabou de baixar será necessário executar o comando: *npm start* ou *yarn start*.
 
 * * Back-end:
-* * * No terminal, dentro da pasta de back-end para executar a API utilize o comando: *./mvnw spring-boot:run*
+* * * No terminal, dentro da pasta de back-end para executar a API utilize o comando: #./mvnw spring-boot:run#
