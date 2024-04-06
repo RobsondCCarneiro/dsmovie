@@ -1,5 +1,6 @@
 # dsmovie
 
+#Obs.: Não está mais funcionando no Netlify, por causa do fim do suporte gratuito do Heroku.
 ## Este projeto foi publicado no Netlify:
 [[ https://dsmovie-robson-carneiro.netlify.app ]]
 
