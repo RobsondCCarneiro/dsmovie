@@ -1,7 +1,7 @@
 # dsmovie
 
-#Obs.: Não está mais funcionando no Netlify, por causa do fim do suporte gratuito do Heroku.
 ## Este projeto foi publicado no Netlify:
+Obs.: Não está mais funcionando no Netlify, por causa do fim do suporte gratuito do Heroku.
 [[ https://dsmovie-robson-carneiro.netlify.app ]]
 
 # Para executar este programa localmente, será necessário:
